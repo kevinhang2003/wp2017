@@ -1,18 +1,25 @@
+img {
 
-body{
-  position:center;
-  background-color: #FFF5EE;
+margin-top:10px;
 
-  }
-
-h1{
-  position:relative;
-  right :50% ;
+border-radius:70px;
 
 }
 
-p{
-  position:relative;
-  right : 50%
-  ;
+
+
+html{
+
+text-align:center;
+font-size:100px;
+}
+
+
+
+body{
+
+font-size:100px;
+
+
+
 }
