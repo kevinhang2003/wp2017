@@ -6,9 +6,12 @@ body{
   }
 
 h1{
-  position:center;
+  position:relative;
+  top : center;
+
 }
 
 p{
-  position:center;
+  position:relative;
+  top : center;
 }
