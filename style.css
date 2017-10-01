@@ -7,11 +7,12 @@ body{
 
 h1{
   position:relative;
-  right : center;
+  right :50% ;
 
 }
 
 p{
   position:relative;
-  right : center;
+  right : 50%
+  ;
 }
